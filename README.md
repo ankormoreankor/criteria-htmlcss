@@ -65,6 +65,7 @@
 2. [Неиспользуемый код ⭐️](7-javascript/advanced/2-unused.md)
 3. [Подключение скриптов ⭐️](7-javascript/advanced/3-scripts.md)
 4. [Работа без скриптов ⭐️](7-javascript/advanced/4-disabled.md)
+5. [Ошибки ⭐️](7-javascript/advanced/5-errors.md)
 
 ## Доступность
 
